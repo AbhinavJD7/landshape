@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39607314605",
+    "project_id": "land-shape",
+    "storage_bucket": "land-shape.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39607314605:android:7d7544312be33fb466fe24",
+        "android_client_info": {
+          "package_name": "com.example.landshape"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYWY2RBUWFw4wyvtcZY0pJUsM5ynYNEGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
